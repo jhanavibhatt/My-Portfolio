@@ -166,7 +166,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/robotic-hand.jpg") no-repeat center;
+    background: url("robotic-hand.jpg") no-repeat center;
   /* background: rgb(0, 0, 0);*/
     height: 100vh;
     color: #fff;
